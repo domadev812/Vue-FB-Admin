@@ -1,0 +1,5 @@
+build/*.js
+config/*.js
+src/assets/*.js
+src/assets/js/*.js
+src/components/FBDataTable.vue
